@@ -1,2 +1,2 @@
-# example-repositary
+# my first-repositary
 my first repositary!!!
